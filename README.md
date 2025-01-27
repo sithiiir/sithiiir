@@ -27,7 +27,7 @@ Another amazing project you've built. What makes it special?
 - [Repository](https://github.com/yourusername/project-two)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+[![Sithil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sithiiir)](https://github.com/sithiiir/github-readme-stats)
 
 ## 🎯 Current Focus
 - Learning cloud architecture
