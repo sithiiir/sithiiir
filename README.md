@@ -10,20 +10,18 @@ I'm a passionate developer who loves turning ideas into reality through code. My
 - **Tools**: Git, Docker
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sithiiir&show_icons=true&theme=radical)
 
 ## 🎯 Current Focus
 - Learning cloud architecture
-- Contributing to open source
+- Interest for machine learining
 - Building scalable applications
+  
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [Personal Website](https://yourwebsite.com)
-- 📧 Email: your.email@example.com
+- [LinkedIn](https://linkedin.com/in/sithil-pathirana/)
+- 📧 Email: sithil2005113@gmail.com
 
 
 
 ---
-⭐️ From [yourusername](https://github.com/sithiiir)
