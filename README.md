@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Sithil Pathirana
 
 > Building things that make a difference
 
